@@ -1,0 +1,15 @@
+.btn_decor{
+    position: relative !important;
+    top: 18px !important;
+    left: 180px !important;
+}
+
+
+.photo{
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
